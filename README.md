@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### I'm mountain~!
+<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=blue"/>
 
 <!--
 **mountain-kangkang/mountain-kangkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

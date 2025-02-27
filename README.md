@@ -5,16 +5,16 @@
 
 ## 🏃‍♀️
 <div align="center">
-  <img style="aline-center" src="https://render.gitanimals.org/farms/{KangKang}"/>
+  <img style="aline-center" src="https://render.gitanimals.org/farms/{mountain-kangkang}"/>
 </div>
 
 ## 💻 Tech Stack 💻
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" /><br>
-    <img src="https://skillicons.dev/icons?i=flask,django,fastapi" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,aws,nginx" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=django,fastapi" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,docker,nginx" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite" /><br>
 <!--     <img src="https://skillicons.dev/icons?i=c,cpp" /><br> -->
 <!--     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" /><br> -->
     <img src="https://skillicons.dev/icons?i=postman,git,github,notion,discord" /><br>

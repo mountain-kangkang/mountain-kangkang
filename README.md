@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" /><br>
-    <img src="https://skillicons.dev/icons?i=python" /><br>
     <img src="https://skillicons.dev/icons?i=flask,django,fastapi" /><br>
     <img src="https://skillicons.dev/icons?i=docker,aws,nginx" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis" /><br>

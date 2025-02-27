@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite" /><br>
 <!--     <img src="https://skillicons.dev/icons?i=c,cpp" /><br> -->
 <!--     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" /><br> -->
-    <img src="https://skillicons.dev/icons?i=postman,git,github,notion,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=notion,github,git,postman,discord" /><br>
 <!--     <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br> -->
   </a>
 </p>

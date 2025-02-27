@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=python" /><br>
     <img src="https://skillicons.dev/icons?i=flask,django,fastapi" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,aws,nginx,gunicorn" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,aws,nginx" /><br>
 <!--     <img src="https://skillicons.dev/icons?i=c,cpp" /><br> -->
     <img src="https://skillicons.dev/icons?i=git,github,notion,discord" /><br>
 <!--     <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br> -->
